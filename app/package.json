@@ -6,13 +6,10 @@
     "selenium-webdriver": "^4.0.0"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC"
 }
